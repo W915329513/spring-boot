@@ -8,4 +8,4 @@ artifactory-server: "https://repo.spring.io/"
 branch: "master"
 build-name: "spring-boot"
 bintray-subject: "spring"
-bintray-repo: "jars"
+
